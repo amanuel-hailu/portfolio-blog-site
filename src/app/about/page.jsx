@@ -14,8 +14,8 @@ const About = () => {
           className={styles.img}
         />
         <div className={styles.imgText}>
-          <h1 className={styles.imgTitle}>Digital Story Tellers</h1>
-          <h2 className={styles.imDesc}>
+          <h1 className={styles.imgTitle}>Digital Storytellers</h1>
+          <h2 className={styles.imgDesc}>
             Handcrafting award winning digital experiences
           </h2>
         </div>
@@ -39,8 +39,8 @@ const About = () => {
           </p>
         </div>
         <div className={styles.item}>
-          <h1 className={styles.title}>What we do?</h1>
-          <p>
+          <h1 className={styles.title}>What We Do?</h1>
+          <p className={styles.desc}>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
             quae dolor, optio voluptatibus magnam iure esse tempora beatae, a
             suscipit eos. Animi quibusdam cum omnis officiis voluptatum quo ea
